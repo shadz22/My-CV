@@ -40,18 +40,18 @@ BTEC National Diploma in Information Technology with overall Merit
 
 ## Experience
 
-**MSI Group** (May 2018 to Nov 2019)    
-*International Projects coordinator / Recruitment Consultant*  
+#### MSI Group** (May 2018 to Nov 2019)    
+#### International Projects coordinator / Recruitment Consultant  
 - 
 
-**MSI Group** (Oct 2015 to May 2018)   
-*Senior Compliance officer*  
+#### MSI Group (Oct 2015 to May 2018)   
+#### Senior Compliance officer*  
 - 
 
-**IV Global** (Jun 2012 to Sep 2015)   
-*Compliance and Logistics Manager*  
+#### IV Global (Jun 2012 to Sep 2015)   
+#### Compliance and Logistics Manager 
 - 
 
 ## Hobbies
 
-Watching films
+
