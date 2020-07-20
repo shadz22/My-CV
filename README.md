@@ -1,11 +1,10 @@
 ## Shadi Khazaei
 
+After working in the Recruitment industry for 7 years, both in Oil & Gas and the healthcare sectors, I knew the time had come for me to move on. I needed a new challenge and I love solving problems, so computer programming really appealed to me, as this was the subject I enjoyed the most whilst studying for my degree in Business Information systems with information technology. I very much enjoy the satisfying feeling of solving a problem/finding a solution.
+
 I’m a junior full-stack developer with a passion for problem solving and learning new things. I have recently graduated from Makers Academy which is a Software Development Bootcamp. 
 The program adopts a "learn by doing" approach, achieved largely through self-directed, project-based work. I am looking for a Junior level software development role to further develop my skills and get in to the wonderful world of software development.
 
-## Background
-
-After working in the Recruitment industry for 7 years, both in Oil & Gas and the healthcare sectors, I knew the time had come for me to move on. I needed a new challenge and I love solving problems, so computer programming really appealed to me, as this was the subject I enjoyed the most whilst studying for my degree in Business Information systems with information technology. I very much enjoy the satisfying feeling of solving a problem/finding a solution.
 
 ## Projects
 
@@ -30,38 +29,6 @@ After working in the Recruitment industry for 7 years, both in Oil & Gas and the
 #### Empathy
 
 
-
-
-## Education
-
-#### Makers Academy (Nov 2019 - Mar 2020)
-A Software Development Bootcamp focusing on the following:
-
-- Agile methodologies
-- Object-oriented programming
-- Test Driven Development
-- OOP, TDD, MVC
-- Ruby, Ruby on Rails, JavaScript, (some Python)
-- HTML5, CSS,
-- jQuery
-- SQL
-- Ajax
-- RSpec, Jasmin, Capybara
-- Pair Programming
-- XP Values
-
-#### Middlesex University. London (Sep 2005 - Jul 2009)
-
-- BSc Business Information Systems with Information Technology 
-
-  *Upper Second-Class Honours* 
-
-
-#### Coleg Glan Hafren College, Cardiff (Sep 2001 - Jun 2003)
-
-- BTEC National Diploma in Information Technology
-
-  
 ## Experience
 
 **MSI Group** (May 2018 to Nov 2019)    
@@ -90,7 +57,36 @@ Responsible for recruiting International nurses from all over the world to place
 - Responsible for making the company compliant with the Maritime Labour Convention (MLC)
 - Checking and verifying Seafarers’ Safety & Survival and medical certificates and qualifications, booking training courses for candidates and arranging medical and drug screening examinations  
 - Liaising with other agencies for the arrangement of visas and work permits  
-- Managing candidate’s mobilisation and demobilisation by arranging flights, transports and accommodations internationally    
+- Managing candidate’s mobilisation and demobilisation by arranging flights, transports and accommodations internationally   
+
+## Education
+
+#### Makers Academy (Nov 2019 - Mar 2020)
+A Software Development Bootcamp focusing on the following:
+
+- Agile methodologies
+- Object-oriented programming
+- Test Driven Development
+- OOP, TDD, MVC
+- Ruby, Ruby on Rails, JavaScript, (some Python)
+- HTML5, CSS,
+- jQuery
+- SQL
+- Ajax
+- RSpec, Jasmin, Capybara
+- Pair Programming
+- XP Values
+
+#### Middlesex University. London (Sep 2005 - Jul 2009)
+
+- BSc Business Information Systems with Information Technology 
+
+  *Upper Second-Class Honours* 
+
+
+#### Coleg Glan Hafren College, Cardiff (Sep 2001 - Jun 2003)
+
+- BTEC National Diploma in Information Technology 
 
 
 ## Hobbies
