@@ -3,17 +3,17 @@
 After working in the Recruitment industry for 7 years, both in Oil & Gas and the healthcare sectors, I knew the time had come for me to move on. I needed a new challenge and I love solving problems, so computer programming really appealed to me, as this was the subject I enjoyed the most whilst studying for my degree in Business Information systems with information technology. I very much enjoy the satisfying feeling of solving a problem/finding a solution.
 
 I’m a junior full-stack developer with a passion for problem solving and learning new things. I have recently graduated from Makers Academy which is a Software Development Bootcamp. 
-The program adopts a "learn by doing" approach, achieved largely through self-directed, project-based work. I am looking for a Junior level software development role to further develop my skills and get in tothe wonderful world of software development.
+The program adopts a "learn by doing" approach, achieved largely through self-directed, project-based work. I am looking for a Junior level software development role to further develop my skills.
 
 
 ## Projects
 
 | Name     | Description          | Technology  |
 | ------------- |:-------------:| -----:|
-| [Makers BnB](https://github.com/shadz22/MakersBnB)    | This was the first group project we did at Makers and the first time I worked in a group to produce a product. We had 5 days to complete the project. This is a single page web app that we built using Javascript, Ruby, Sinatra, PostgreSQL and jQuery.  It was the first time our whole group was using Javascript  | Ruby, Javascript, Jquery, Sinatra, PostgreSQL, Rspec/Capybara |
-| [Acebook 404](https://github.com/shadz22/acebook-404)     | This was the second group project we did at Makers, This is a clone of Facebook built over two weeks. This was the first time I used Ruby on Rails.    |   Ruby, Ruby on Rails, PostgreSQL, HTML, CSS, Heroku, RSpec, Capybara, Travis CI |
 | [Alpha Blog](https://github.com/shadz22/alpha-blog) | This is my second Ruby on Rails application, which allows users to create articles and have access to other users' articles. They can also add categories to their articles, this means all the articles of a specific category can be viewed in that category's show page.    |    Ruby, Ruby on Rails, Heroku, CSS, HTML, Bootstrap |
 | [Forkify](https://github.com/shadz22/Forkify) | This is a JavaScript project, which allows users to search for over thousands of recipes. It lets users to bookmark their favorite recipes, users are also able to upload their own recipes, which gets added to their bookmarks automatically. This project was created following a Udemy course    |    JavaScript, CSS, HTML, SASS, Babel, Parcel |
+| [Makers BnB](https://github.com/shadz22/MakersBnB)    | This was the first group project we did at Makers and the first time I worked in a group to produce a product. We had 5 days to complete the project. This is a single page web app that we built using Javascript, Ruby, Sinatra, PostgreSQL and jQuery.  It was the first time our whole group was using Javascript  | Ruby, Javascript, Jquery, Sinatra, PostgreSQL, Rspec/Capybara |
+| [Acebook 404](https://github.com/shadz22/acebook-404)     | This was the second group project we did at Makers, This is a clone of Facebook built over two weeks. This was the first time I used Ruby on Rails.    |   Ruby, Ruby on Rails, PostgreSQL, HTML, CSS, Heroku, RSpec, Capybara, Travis CI |
 
 ## Skills
 
